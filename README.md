@@ -1,28 +1,6 @@
 # Atividade05_de_java_Faculdade_Flamingo
 
 
-Enunciado
-Bom dia Caros Alunos,
-
-
-
-Como vão?
-
-
-
-Espero que muito bem.
-
-
-
-Abaixo, segue as atividades de linguagem de programação Java Core.
-
-
-
-Bons Estudos.
-
-
-
-Professor Obama.
 
 
 
